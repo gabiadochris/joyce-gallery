@@ -1,0 +1,25 @@
+
+ 
+
+
+ 
+
+  *{
+    box-sizing: border-box;
+    background-color: rgb(12,15,22);
+      
+ }
+
+ .imageColumn {
+    
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+    height: 76vh;
+    margin:  12vh 0 0;
+    
+    background-position: center center;
+ }
+
+
+ 
